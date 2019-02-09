@@ -67,7 +67,7 @@ Download & Install [Java JDK] (http://www.oracle.com/technetwork/java/javase/dow
 
 #### 3. Android SDK version installation
 
-Download & install [Android Studio] (https://developer.android.com/studio/) and install the `Android SDK" inside it.
+Download & install [Android Studio] (https://developer.android.com/studio/) and install the `Android SDK` inside it.
 
 #### 4. Configuring the adb environment
 
@@ -80,12 +80,12 @@ Download & Install [Pycharm CE] (https://www.jetbrains.com/pycharm/download/)
 ## FAutoTest Development Environment Installation 
 
 | Library Name     | Version | Download Address                                  |
-| ---------------- |  ------ | ------------------------- ----------------------- |
+| ---------------- |  ------ | ------------------------------------------------- |
 | uiautomator      |   0.3.2 | https://pypi.org/project/uiautomator/#files       |
 | Lxml             |   4.2.3 | https://pypi.org/project/lxml/4.2.3/#files        |
 | bidict           |  0.17.0 | https://pypi.org/project/bidict/#files            |
 | Websocket-client |  0.44.0 | https://pypi.org/project/websocket-client/#files  |
-|                  |         |                                                   |
+
 
 * Use the `pip` installation framework for the third-party libraries `uiautomator`, `websocket-client`, `lxml`, `bidict`, such as `lxml`, `bidict`, `websocket-client`. `pip` Formal installation, such as installing `lxml`,
 
