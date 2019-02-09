@@ -188,7 +188,7 @@ For the exchange group, please scan the code to join the group below, and verify
 
 ## Related Links
 
-[CONTRIBUTING](CONTRIBUTING.md)
+[CONTRIBUTING](CONTRIBUTING-english.md)
 
 [IFRAME](docs-english/IFRAME.md)
 
@@ -203,7 +203,7 @@ For the exchange group, please scan the code to join the group below, and verify
 ## contributing code
 
 If you find bugs during use, please submit your feedback via Issues or Pull Requests, or join the exchange group to resolve.  
-For the first time to contribute, please read: [CONTRIBUTING](CONTRIBUTING.md)
+For the first time to contribute, please read: [CONTRIBUTING](CONTRIBUTING-english.md)
 
 [Tencent Open Source Incentive Program] (https://opensource.tencent.com/contribution) Encourage developers to participate and contribute, and look forward to your joining.
 
