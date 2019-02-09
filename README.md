@@ -29,11 +29,11 @@ FAutoTest professionally serves UI automation testing of WeChat H5/small program
 
   <img src="docs-english/images/connectedProcess.png" width="500" />
 
-   **User Interface: ** Provides all user interface APIs (H5 interface and applet interface). Users do not need to pay attention to the internal implementation of the framework. They only need to pay attention to their own business logic flow (manual use case flow conversion). Into an automated process)
+   **User Interface:** Provides all user interface APIs (H5 interface and applet interface). Users do not need to pay attention to the internal implementation of the framework. They only need to pay attention to their own business logic flow (manual use case flow conversion). Into an automated process)
 
-   **PageOperator (operation resolution layer): ** mainly used to receive and parse user commands and pass to the lower engine layer
+   **PageOperator (operation resolution layer):** mainly used to receive and parse user commands and pass to the lower engine layer
 
-   **Engine (H5 & applet engine layer): ** Transfer user commands to the phone and return result information. Encapsulate WebSocket and single-threaded pool, establish a link with the browser kernel through the WebSocket Debug URL, and send the Json-formatted protocol to the mobile phone for user-specified operations.
+   **Engine (H5 & applet engine layer):** Transfer user commands to the phone and return result information. Encapsulate WebSocket and single-threaded pool, establish a link with the browser kernel through the WebSocket Debug URL, and send the Json-formatted protocol to the mobile phone for user-specified operations.
 
 ### Business Process
 
